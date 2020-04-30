@@ -73,7 +73,7 @@
 <div class="carousel slide" >
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="Images/Carousel.JPG" alt="Cleo Eating" class="center">
+                <img src="Images/Carousel.JPG">
                 <div class="carousel-caption">
     
                    
